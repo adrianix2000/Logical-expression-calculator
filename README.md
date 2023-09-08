@@ -6,6 +6,7 @@ you can compile program only in windows.
 For now calculator supports 6 logical operations:
   - or
   - and
-  - implicaion
-  - negation
-  - logical modulo eqc
+  - =>
+  - not
+  - eqc
+  - xor
